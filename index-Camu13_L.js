@@ -15761,8 +15761,7 @@ const Fw = rr("X", [["path", {
         subtitle: "Click to hear my sincere apology",
         recipient: "Dear kiki ❤️😉",
         paragraphs: ["I want to offer my sincerest apologies for the ways I have let you down...", "Please forgive me for my mistakes."],
-        signature: `Yours sincerely,
-Madam Ji`
+        signature: `Yours sincerely(Madam Ji)`, Buddu(kutta)
     },
     game: {
         title: "Play a Game!",
@@ -17105,3 +17104,4 @@ function qw() {
 ih(document.getElementById("root")).render(y.jsx(T.StrictMode, {
     children: y.jsx(qw, {})
 }));
+
