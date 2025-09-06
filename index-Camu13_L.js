@@ -15755,7 +15755,7 @@ const Fw = rr("X", [["path", {
         name: "Hieieieieiie",
         message: "I'm Sollyyyyyy"
     },
-    stickyNotes: ["I'm truly sorry!", "Forgive me, please.", "I regret my mistakes.", "Let's start fresh.", "My apology is sincere."],
+    stickyNotes: ["I'm truly sorry!", "Forgive me, please.", "I regret my mistakes.", "Let's start fresh.", "My apology is sincere.","I Love You❤️"],
     letter: {
         title: "Read My Apology Letter 💌",
         subtitle: "Click to hear my sincere apology",
@@ -15778,7 +15778,7 @@ const Fw = rr("X", [["path", {
         caption: "I'm truly sorry and promise to do better."
     }, {
         text: "This is us btw",
-        caption: "Don't be angyyyyyyy ."
+        caption: "Don't be angyyyyyyy . LOVE YOU 3000 "
     }],
     poem: {
         title: "My Apology in Verse ✨",
@@ -17105,3 +17105,4 @@ function qw() {
 ih(document.getElementById("root")).render(y.jsx(T.StrictMode, {
     children: y.jsx(qw, {})
 }));
+
